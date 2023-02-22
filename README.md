@@ -5,7 +5,7 @@ Undergraduate  Computer Science student at Aristotle University of Thessaloniki.
 
 ### Curent software interests include:
 
-- Artificia lIntelligence
+- Artificial Intelligence
 - Software engineering principles and collaboratory models for software development
 - Accesibility and equality in computer software (mostly through pyqt6 and Javasrcript)
 
