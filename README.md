@@ -5,10 +5,9 @@ Undergraduate  Computer Science student at Aristotle University of Thessaloniki.
 
 ### Curent software interests include:
 
-- API calls, working with open and accesible data
-- Database management and structuring
+- Artificia lIntelligence
 - Software engineering principles and collaboratory models for software development
-- Accesibility and equality in computer software 
+- Accesibility and equality in computer software (mostly through pyqt6 and Javasrcript)
 
 ### Programmng languages I am comfortable with
 
