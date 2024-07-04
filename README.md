@@ -14,6 +14,7 @@ Undergraduate  Computer Science student at Aristotle University of Thessaloniki.
 - Python 
 - C/C++
 - Java
+- C# 
 
 ### Contact me
 Feel free to contact me at any time via email: pavlidvg@csd.auth.gr
